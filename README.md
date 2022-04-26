@@ -6,6 +6,6 @@ Download all files and execute "Driver.java"
 
 Current version of the project converts a letter to Morse code and vice-versa.
 Future versions may include:
-  1. Bug fixes for input-mismatch (if any)
+  1. Bug fixes (for input-mismatch if any)
   2. converting a message to Morse code
   3. Decoding a message from Morse code
